@@ -1,0 +1,22 @@
+{
+  "name": "prject",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenisis/Angular.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "1234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zenisis/Angular/issues"
+  },
+  "homepage": "https://github.com/Zenisis/Angular#readme"
+}
